@@ -54,15 +54,15 @@ Body:
 Here is your code: 948372
 ```
 ### 🛡️ Disclaimer :
-This tool is intended for educational and testing purposes only.
+- This tool is intended for educational and testing purposes only.
 
-Do not use it for spam, illegal activity, or to bypass security systems.
+- Do not use it for spam, illegal activity, or to bypass security systems.
 
-Some websites may block mail.tm or other temp email domains.
+- Some websites may block mail.tm or other temp email domains.
 
 ### 📚 Resources
-mail.tm Public API Docs
+- mail.tm Public API Docs
 
-Temp Mail API Alternatives
+- Temp Mail API Alternatives
 
 
