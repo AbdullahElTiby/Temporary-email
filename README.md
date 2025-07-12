@@ -19,15 +19,21 @@ This Python script allows you to **generate temporary email addresses** and auto
 - Python 3.7+
 - `requests` library
 
+
+
+🚀 How to Use :
+Clone or download this repo
+
+```bash
+ git clone https://github.com/AbdullahElTiby/Temporary-email.git
+```
+
 ### Install dependencies:
 
 ```bash
 pip install requests
 
 ```
-
-🚀 How to Use
-Clone or download this repo
 
 Run the script:
 
