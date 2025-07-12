@@ -44,4 +44,25 @@ Copy the generated email and use it in any service that requires email verificat
 
 The script will wait for a new email and print its contents once received.
 
+🧠 Example Output
+
+```bash
+Generated email: xlmzbdtjs@mail.tm
+Waiting for email...
+Subject: Your Verification Code
+Body:
+Here is your code: 948372
+```
+🛡️ Disclaimer
+This tool is intended for educational and testing purposes only.
+
+Do not use it for spam, illegal activity, or to bypass security systems.
+
+Some websites may block mail.tm or other temp email domains.
+
+📚 Resources
+mail.tm Public API Docs
+
+Temp Mail API Alternatives
+
 
