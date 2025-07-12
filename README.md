@@ -23,36 +23,3 @@ This Python script allows you to **generate temporary email addresses** and auto
 
 ```bash
 pip install requests
-🚀 How to Use
-Clone or download this repo
-
-Run the script:
-
-bash
-Copy
-Edit
-python temp_email.py
-Copy the generated email and use it in any service that requires email verification.
-
-The script will wait for a new email and print its contents once received.
-
-🧠 Example Output
-plaintext
-Copy
-Edit
-Generated email: xlmzbdtjs@mail.tm
-Waiting for email...
-Subject: Your Verification Code
-Body:
-Here is your code: 948372
-🛡️ Disclaimer
-This tool is intended for educational and testing purposes only.
-
-Do not use it for spam, illegal activity, or to bypass security systems.
-
-Some websites may block mail.tm or other temp email domains.
-
-📚 Resources
-mail.tm Public API Docs
-
-Temp Mail API Alternatives
